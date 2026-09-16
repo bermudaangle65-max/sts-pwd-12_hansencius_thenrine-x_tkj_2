@@ -15,8 +15,6 @@ Visi
 
 Menjadi platform perjalanan yang membantu masyarakat merencanakan perjalanan dengan lebih mudah, nyaman, dan menyenangkan melalui teknologi serta berbagai pilihan layanan perjalanan.
 
-Catatan: bagian visi ini merupakan rumusan berdasarkan informasi perusahaan, bukan kutipan langsung dari halaman resmi Traveloka.
-
 Misi
 Memudahkan masyarakat dalam merencanakan dan memenuhi kebutuhan perjalanan.
 Menyediakan berbagai produk dan layanan perjalanan dalam satu platform.
