@@ -35,9 +35,6 @@ Asuransi Perjalanan
 TPayLater
 JR Pass
 Cruises
-Logo
-
-Karena tugasmu hanya boleh menggunakan README.md dan index.html, kita sebelumnya menghindari file gambar logo tambahan.
 
 Alamat
 
@@ -47,18 +44,3 @@ Kontak
 
 Email: cs@traveloka.com
 Customer Service: +62 21 30122077
-
-Official & Social Media
-Instagram Traveloka Indonesia
-Email Customer Service Traveloka
-
-Untuk link yang kita pakai di HTML, Instagram dan email dipertahankan karena itu yang sebelumnya berhasil dibuka di perangkatmu.
-
-Sumber Referensi
-
-Sumber riset sebelumnya berasal dari halaman resmi Traveloka, terutama:
-
-Traveloka About Us
-Traveloka Contact Us
-Traveloka Help Center
-Informasi Official Channel Traveloka
